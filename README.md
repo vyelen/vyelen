@@ -2,9 +2,8 @@
 
 <p>lemme introduce my self bro 🔥</p>
 <ul>
-  <li>Name: David Luz</li>
   <li>Interested in: something cool</li>
-  <li>Ussualy use: Python, Java, C++</li>
+  <li>Usually use: Python, Java, C++</li>
   <li>Live in: Indonesia</li>
 </ul>
 
