@@ -14,7 +14,7 @@
     <a href="https://www.youtube.com/@ItsPrussia">Youtube</a>
   </li>
   <li>
-    <i class="fa-brands fa-discord"></i>
+  <img src="https://static.vecteezy.com/system/resources/previews/018/930/718/non_2x/discord-logo-discord-icon-transparent-free-png.png"/>
     <a href="https://discord.com/users/1097813457656614972">Discord</a>
   </li>
 </ul>
