@@ -1,25 +1,30 @@
 <h1>Hi There ! 🗣️</h1>
 
 <p>lemme introduce my self bro 🔥</p>
-<ul>
-  <li>Interested in: something cool</li>
-  <li>Usually use: Python, Java, C++</li>
-  <img src="https://skillicons.dev/icons?i=py,java,cpp"/>
-  <li>Live in: Indonesia</li>
-</ul>
+<p>
+  I'm David, i'm interested in any program that i think it's cool.
+  I.m live in Indonesia, and if you wanna reach me, you cant check my <a href="socials">socials</a>.
+</p>
+<img src="https://skillicons.dev/icons?i=py,java,cpp"/>
 
-<p>Socials</p>
+<p class="socials">Socials</p>
 <ul>
   <li>
     <img src="https://www.youtube.com/favicon.ico"/>
     <a href="https://www.youtube.com/@Vyelen">Youtube</a>
   </li>
   <li>
-    <img src="https://https://instagram.com/favicon.ico"/>
+    <img src="https://www.instagram.com/favicon.ico"/>
     <a href="https://instagram.com/_vyelen">Instagram</a>
   </li>
   <li>
-    <!--<img src="https://static.vecteezy.com/system/resources/previews/018/930/718/non_2x/discord-logo-discord-icon-transparent-free-png.png"/>-->
     <a href="https://discord.com/users/1097813457656614972">Discord</a>
   </li>
 </ul>
+
+<details>
+  <summary>Github Stats</summary>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=vyelen&theme=blueberry&count_private=true&hide_border=true&line_height=20"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyelen&layout=compact&theme=blueberry&count_private=true&hide_border=true"/>
+</details>
