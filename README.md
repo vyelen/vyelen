@@ -3,7 +3,7 @@
 <p>lemme introduce my self bro 🔥</p>
 <p>
   I'm David, i'm interested in any program that i think it's cool.
-  I'm usually use 3 programming language (Python, Java, and C++)
+  I'm usually use 3 programming language (Python, Java, and C++).
   I'm live in Indonesia, and if you wanna reach me, you cant check my <a href="#socials">socials</a>.
 </p>
 <img src="https://skillicons.dev/icons?i=py,java,cpp"/>
