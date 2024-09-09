@@ -3,7 +3,8 @@
 <p>lemme introduce my self bro 🔥</p>
 <p>
   I'm David, i'm interested in any program that i think it's cool.
-  I.m live in Indonesia, and if you wanna reach me, you cant check my <a href="socials">socials</a>.
+  I'm usually use 3 programming language (Python, Java, and C++)
+  I'm live in Indonesia, and if you wanna reach me, you cant check my <a href="#socials">socials</a>.
 </p>
 <img src="https://skillicons.dev/icons?i=py,java,cpp"/>
 
@@ -25,6 +26,6 @@
 <details>
   <summary>Github Stats</summary>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=vyelen&theme=blueberry&count_private=true&hide_border=true&line_height=20"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vyelen&theme=catppuccin&count_private=true&hide_border=true&line_height=20"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyelen&layout=compact&theme=blueberry&count_private=true&hide_border=true"/>
 </details>
