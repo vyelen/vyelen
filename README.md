@@ -4,6 +4,7 @@
 <ul>
   <li>Interested in: something cool</li>
   <li>Usually use: Python, Java, C++</li>
+  <img src="https://skillicons.dev/icons?i=py,java,cpp"/>
   <li>Live in: Indonesia</li>
 </ul>
 
