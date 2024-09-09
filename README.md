@@ -11,11 +11,11 @@
 <p class="socials">Socials</p>
 <ul>
   <li>
-    <img src="https://www.youtube.com/favicon.ico"/>
+<!--     <img src="https://www.youtube.com/favicon.ico"/> -->
     <a href="https://www.youtube.com/@Vyelen">Youtube</a>
   </li>
   <li>
-    <img src="https://www.instagram.com/favicon.ico"/>
+<!--     <img src="https://www.instagram.com/favicon.ico"/> -->
     <a href="https://instagram.com/_vyelen">Instagram</a>
   </li>
   <li>
@@ -23,9 +23,6 @@
   </li>
 </ul>
 
-<details>
-  <summary>Github Stats</summary>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=vyelen&theme=catppuccin&count_private=true&hide_border=true&line_height=20"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyelen&layout=compact&theme=blueberry&count_private=true&hide_border=true"/>
-</details>
+<p>Github Stats</p>
+<img src="https://github-readme-stats.vercel.app/api?username=vyelen&theme=catppuccin_macchiato&count_private=true&hide_border=true&line_height=20"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyelen&layout=compact&theme=catppuccin_macchiato&count_private=true&hide_border=true"/>
