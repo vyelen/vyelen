@@ -10,8 +10,12 @@
 <p>Socials</p>
 <ul>
   <li>
-    <!--<img src="https://www.youtube.com/favicon.ico" alt="Youtube logo"/>-->
-    <a href="https://www.youtube.com/@ItsPrussia">Youtube</a>
+    <img src="https://www.youtube.com/favicon.ico"/>
+    <a href="https://www.youtube.com/@Vyelen">Youtube</a>
+  </li>
+  <li>
+    <img src="https://https://instagram.com/favicon.ico"/>
+    <a href="https://instagram.com/_vyelen">Instagram</a>
   </li>
   <li>
     <!--<img src="https://static.vecteezy.com/system/resources/previews/018/930/718/non_2x/discord-logo-discord-icon-transparent-free-png.png"/>-->
