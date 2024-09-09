@@ -24,5 +24,5 @@
 </ul>
 
 <p>Github Stats</p>
-<img src="https://github-readme-stats.vercel.app/api?username=vyelen&theme=catppuccin_macchiato&count_private=true&hide_border=true&line_height=20"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyelen&layout=compact&theme=catppuccin_macchiato&count_private=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vyelen"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyelen"/>
