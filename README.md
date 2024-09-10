@@ -1,11 +1,4 @@
-<h1>Hi There ! 🗣️</h1>
-
-<p>lemme introduce my self bro 🔥</p>
-<p>
-  I'm David, i'm interested in any program that i think it's cool.
-  I'm usually use 3 programming language (Python, Java, and C++).
-  I'm live in Indonesia, and if you wanna reach me, you cant check my <a href="#socials">socials</a>.
-</p>
+<p>Just a kid that interested in programming</p>
 <img src="https://skillicons.dev/icons?i=py,java,cpp"/>
 
 <p class="socials">Socials</p>
