@@ -1,5 +1,8 @@
 <p>Just a kid that interested in programming</p>
-<img src="https://skillicons.dev/icons?i=py,java,cpp"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,java"/>
+
+<p>Currently Learning:</p>
+<img src="https://skillicons.dev/icons?i=react"/>
 
 <p class="socials">Socials</p>
 <ul>
