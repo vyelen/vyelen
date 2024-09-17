@@ -2,7 +2,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,java"/>
 
 <p>Currently Learning:</p>
-<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=react,ts"/>
 
 <p class="socials">Socials</p>
 <ul>
