@@ -1,4 +1,5 @@
-<p>Just a kid that interested in programming</p>
+<p>Just a kid that interested in programming.<br/><br/>
+I'm sometime write a code, just because there isn't school's task anymore.</p>
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,java"/>
 
 <p>Currently Learning:</p>
