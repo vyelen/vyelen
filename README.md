@@ -1,9 +1,7 @@
 <p>Just a kid that interested in programming.<br/>
 I'm sometime write a code, just because there isn't school's task anymore.</p>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,cpp,java,py,neovim,github,windows&perline=6"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,cpp,java,py,neovim,github,windows&perline=6"/>
 
 <details>
   <summary>My Socials</summary>
