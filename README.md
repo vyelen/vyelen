@@ -1,4 +1,4 @@
-<p align="center">I'm writing code while activity free such as no damn fucking school task</p>
+<p align="center">I'm writing code while activity free such as no homework to do</p>
 
 <details>
   <summary>My Socials</summary>
