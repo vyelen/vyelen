@@ -1,7 +1,4 @@
-<p>Just a kid that interested in programming.<br/>
-I'm sometime write a code, just because there isn't school's task anymore.</p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,neovim"/>
+<p align="center">I'm writing code while activity free such as no damn fucking school task</p>
 
 <details>
   <summary>My Socials</summary>
