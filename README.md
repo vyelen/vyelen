@@ -1,4 +1,5 @@
 <p align="center">I'm writing code while activity free such as no homework to do</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js"></p>
 
 <details>
   <summary>My Socials</summary>
