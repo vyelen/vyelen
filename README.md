@@ -1,4 +1,4 @@
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=js,ts,nodejs"></p>
 <p align="center">I'm writing code while activity free such as no homework to do</p>
 
 <details>
